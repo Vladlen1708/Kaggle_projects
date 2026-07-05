@@ -1,4 +1,4 @@
-# Kaggle_projects
+# Kaggle competitions
 Мои решения соревнований Kaggle. Каждая папка — отдельное соревнование с ноутбуком и разбором  
 Мой профиль на Kaggle - https://www.kaggle.com/vladosfordik
 
@@ -6,4 +6,4 @@
 
 | Соревнование | Тип | Метрика | Результат | Инструменты |
 |---|---|---|---|---|
-| Titanic | Бинарная классификация | Accuracy | 0.78 (Public score), 0.84 (Cross Validation) | Pandas, scikit-learn, XGBoost |
+| [Titanic](https://github.com/Vladlen1708/Kaggle_projects/tree/main/titanic) | Бинарная классификация | Accuracy | 0.78 (Public score),<br> 0.84 (Cross Validation) | Pandas, scikit-learn, XGBoost |
